@@ -60,6 +60,7 @@ Cтворяться контейнери.
 
 Тепер відкриваємо Postman. Тепер безпосередньо у нашому Postman
 ми імпортуємо наші файли з директорії ```postman```.
+
 ![Image](https://github.com/user-attachments/assets/c43453c9-0bf7-43be-a4a7-c75736ddd495)
 
 Після імпорту з'явилась колекція ```RESTful API Boilerplate```
